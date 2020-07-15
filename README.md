@@ -8,7 +8,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on DotNet Core
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Something is better than nothing😄
